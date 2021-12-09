@@ -15,6 +15,7 @@ class GitKhbdApplicationTests {
         System.out.println("2021年12月9日16:27:15");
         System.out.println("葵花宝典是比较厉害");
         System.out.println("葵花宝典VS辟邪剑谱");
+        System.out.println("辟邪剑谱");
     }
 
 }
