@@ -12,6 +12,7 @@ class GitKhbdApplicationTests {
         System.out.println("hello git");
         System.out.println("master test");
         System.out.println("branch test");
+        System.out.println("2021年12月9日16:27:15");
     }
 
 }
