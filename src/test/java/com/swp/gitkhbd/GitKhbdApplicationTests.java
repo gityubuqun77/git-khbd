@@ -16,6 +16,7 @@ class GitKhbdApplicationTests {
         System.out.println("葵花宝典是比较厉害");
         System.out.println("葵花宝典VS辟邪剑谱");
         System.out.println("辟邪剑谱");
+        System.out.println("1111111111111111111111111111111111");
     }
 
 }
