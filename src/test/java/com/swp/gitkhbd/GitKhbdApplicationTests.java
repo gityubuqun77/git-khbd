@@ -8,6 +8,7 @@ class GitKhbdApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("branch test");
     }
 
 }
